@@ -35,7 +35,7 @@ Tools and packages that are used for countering forensic activities, including e
 - [Scrounge-Ntfs](https://github.com/lcorbasson/scrounge-ntfs) : Data recovery program for NTFS file systems.
 - [TestDisk & PhotoRec](https://github.com/cgsecurity/testdisk) : TestDisk checks the partition and boot sectors of your disks. It is very useful in recovering lost partitions. PhotoRec is file data recovery software designed to recover lost pictures from digital camera memory or even hard disks. It has been extended to search also for non audio/video headers.
 
-### Analysis / Gathering tool (Know your ennemies)
+### Analysis / Gathering tool (Know your enemies)
 
 - [Autopsy](https://github.com/sleuthkit/autopsy) : The forensic browser. A GUI for the Sleuth Kit.
 - [Bulk-extractor](https://github.com/simsong/bulk_extractor) : Bulk Email and URL extraction tool.
